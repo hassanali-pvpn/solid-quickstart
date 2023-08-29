@@ -9,7 +9,7 @@ export default function Home() {
       <Counter />
       <p>
         Visit{" "}
-        <a href="https://purevpndev.fusionauth.io/oauth2/authorize?code_challenge=TRIQeKaymA_XH4pm2Vi9yn7-yvUglasPL-ZAp8zJLR0&response_type=code&redirect_uri=puredome%3A%2F%2Fhome%2Fa5bd247f-9f51-40c2-8e94-8d6535e4cbf9&scope=offline_access&code_challenge_method=S256&client_id=a5bd247f-9f51-40c2-8e94-8d6535e4cbf9&state=2F28683E" target="_blank">
+        <a href="https://purevpndev.fusionauth.io/oauth2/authorize?response_type=code&state=1C6C0712&redirect_uri=puredome%3A%2F%2Fhome%2Fa5bd247f-9f51-40c2-8e94-8d6535e4cbf9&code_challenge_method=S256&code_challenge=uOCT5KghVGMmpLH670RA5oIoCs_1jORPfAlRnlwnNrU&client_id=a5bd247f-9f51-40c2-8e94-8d6535e4cbf9&scope=offline_access" target="_blank">
           start.solidjs.com
         </a>{" "}
         to learn how to build SolidStart apps.
